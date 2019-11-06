@@ -1,6 +1,6 @@
 ## Our latest adventure
 
-The Freaky Fast team ventured to Asheville, North Carolina on November 1 to participate in the inaugural [Land and Sky Relay].(http://gloryhoundevents.com/event/land-and-sky-relay/) The 64 mile, 4-team event ended in Cherokee, North Carolina.
+The Freaky Fast team ventured to Asheville, North Carolina on November 1 to participate in the inaugural [Land and Sky Relay](http://gloryhoundevents.com/event/land-and-sky-relay/). The 64 mile, 4-team event ended in Cherokee, North Carolina.
 
 We were split into two teams. Team 1 was Guru, Amy, Hannah, Tom and Joshua and team 2 was Tom, Jim, Kevin and Jason. Diana decided to tag along with team 2 because the thought of being away from Kevin for the entire weekend was too much to bear.
 
