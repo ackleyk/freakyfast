@@ -4,9 +4,6 @@
 
 We were split into two teams. Team 1 was Guru, Amy, Hannah, Tom and Joshua and team 2 was Tom, Jim, Kevin and Jason. Diana decided to tag along with team 2 because the thought of being away from Kevin for the entire weekend was too much to bear.
 
-
-![Tom Goldsby running through the fog and frost](https://raw.githubusercontent.com/ackleyk/freakyfast/master/tom-goldsby.jpg)
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
