@@ -8,6 +8,12 @@ We were split into two teams. Team 1 was Guru, Amy, Hannah, Tom and Joshua and t
 
 Only 15 minutes separated the teams' starting times. Team one began at 6:30 and team two hit the road at 6:45. From there, the experience for each team was vastly different. Team two (or Gallant) ran an efficient race. Both the runners and the various drivers of the Armada followed the clearly marked directions for each of the 12 legs and, because of this, showed up to each transition point with plenty of time to spare. Team one (or Goofus) lollygagged at the gas station, showing up late to the transtion at leg 2. From there, they became more incompetent. Ignoring directions from the race director (that was printed on bright yellow paper) as well as Guru, who pleaded with his teammates to not make him drive a road that was clearly only wide enough for a ATV, the 15 passenger van took "the road less travelled". Seven miles and a creek crossing later, the team emerged from the woods and was rewarded with a fifteen minute penalty.   
 
+### Results!
+
+Team two was anchored by Tom Goldsby, who passed nearly half the field himself. Jim Grafmeyer turned in a strong performance as well in his very first relay race. Joshua and Kevin were there as well. When it was all said and done team two took second place overall and first in the general category.
+
+Coming in nearly two minutes slower per mile was team one. They finished 27th overall. 
+
 ```markdown
 Syntax highlighted code block
 
