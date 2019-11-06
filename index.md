@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Our latest adventure
 
-You can use the [editor on GitHub](https://github.com/ackleyk/freakyfast/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The Freaky Fast team ventured to Asheville, North Carolina on November 1 to participate in the inaugural [Land and Sky Relay].(http://gloryhoundevents.com/event/land-and-sky-relay/) The 64 mile, 4-team event ended in Cherokee, North Carolina.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We were split into two teams. Team 1 was Guru, Amy, Hannah, Tom and Joshua and team 2 was Tom, Jim, Kevin and Jason. Diana decided to tag along with team 2 because the thought of being away from Kevin for the entire weekend was too much to bear.
 
 ### Markdown
 
