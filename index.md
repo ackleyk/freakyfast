@@ -2,17 +2,21 @@
 
 <img align="right" style="margin-left:20px" src="https://raw.githubusercontent.com/ackleyk/freakyfast/master/tom-goldsby.jpg" alt="Tom Goldsby running through the fog and frost">The Freaky Fast team ventured to Asheville, North Carolina on November 1 to participate in the inaugural [Land and Sky Relay](http://gloryhoundevents.com/event/land-and-sky-relay/). The 64 mile, 4-team event ended in Cherokee, North Carolina.
 
-We were split into two teams. Team 1 was Guru, Amy, Hannah, Tom and Joshua and team 2 was Tom, Jim, Kevin and Jason. Diana decided to tag along with team 2 because the thought of being away from Kevin for the entire weekend was too much to bear.
+We were split into two teams. Team 1 was Tom Goldsby, Jim Grafmeyer, Kevin Ackley and Jason Risser and team 2 was Guru Vasudeva, Amy T., Hannah T., Tom Paider and Joshua Woods. Diana decided to tag along with team 1 because the thought of being away from Kevin for the entire weekend was too much to bear.
 
 ### Race Day!
 
-Only 15 minutes separated the teams' starting times. Team one began at 6:30 and team two hit the road at 6:45. From there, the experience for each team was vastly different. Team two (or Gallant) ran an efficient race. Both the runners and the various drivers of the Armada followed the clearly marked directions for each of the 12 legs and, because of this, showed up to each transition point with plenty of time to spare. Team one (or Goofus) lollygagged at the gas station, showing up late to the transtion at leg 2. From there, they became more incompetent. Ignoring directions from the race director (that was printed on bright yellow paper) as well as Guru, who pleaded with his teammates to not make him drive a road that was clearly only wide enough for a ATV, the 15 passenger van took "the road less travelled". Seven miles and a creek crossing later, the team emerged from the woods and was rewarded with a fifteen minute penalty.   
+Only 15 minutes separated the teams' starting times. Team one began at 6:30 and team two hit the road at 6:45. From there, the experience for each team was vastly different. Team one (or Gallant) ran an efficient race. Both the runners and the various drivers of the Armada followed the clearly marked directions for each of the 12 legs and, because of this, showed up to each transition point with plenty of time to spare. Team two (or Goofus) lollygagged at the gas station, showing up late to the transtion at leg 2. From there, it got only worse. Ignoring directions from the race director (that was printed on bright yellow paper) as well as Guru, who pleaded with his teammates to not make him drive a road that was clearly only wide enough for an ATV, the 15 passenger van took "the road less travelled". Seven miles and a creek crossing later, the team emerged from the woods and was rewarded with a fifteen minute penalty.   
 
 ### Results!
 
-Team two was anchored by Tom Goldsby, who passed nearly half the field himself. Jim Grafmeyer turned in a strong performance as well in his very first relay race. Joshua and Kevin were there as well. When it was all said and done team two took second place overall and first in the general category.
+Team one was anchored by Tom Goldsby, who passed nearly half the field himself. Jim Grafmeyer turned in a strong performance as well in his very first relay race. Joshua and Kevin were there as well. When it was all said and done, team one took second place overall and first in the general category.
 
 Coming in nearly two minutes slower per mile was team one. They finished 27th overall. 
+
+### Changing of the Guard
+
+The biggest news (aside from Team one taking first place) is that Jim Grafmeyer is not only hooked on relay races, he wants to take over as the captain! Apparently the "captain by committee" style did not mesh well with his OCD.
 
 ```markdown
 Syntax highlighted code block
